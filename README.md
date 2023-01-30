@@ -1,6 +1,5 @@
 ### Hello! I'm Alla. 
-<!--
-**FkkfRf/FkkfRf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <p align="left">
 <code><img src="img/QA-logo.svg"></code>
 </p>
@@ -8,8 +7,14 @@
 <img src="img/QA-logo1.svg" width="500">
 </p>
 <p align="right">
-<img src="[img/QA_LOGO.svg](https://github.com/FkkfRf/FkkfRf/blob/main/img/QA_LOGO.svg)" width="500">
+<img src="img/QA_LOGO.svg" >
 </p>
+
+
+
+<!--
+**FkkfRf/FkkfRf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
