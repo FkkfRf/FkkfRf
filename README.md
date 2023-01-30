@@ -3,7 +3,10 @@
   <img width="40%" src="img/QA_LOGO.svg" align="right">
 	<h1>Hello! I'm Alla</h1>
 	<h3>QA Automation Engineer</h3>
-  <h3></h3>
+  <h3>  </h3>
+	<h3>  </h3>
+	<h3>  </h3>
+	<h3>  </h3>
   <h3>School of automation testing engineers</h3> <a target="_blank" href="https://qa.guru">QA.GURU</a>
 </div>
 
