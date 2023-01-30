@@ -1,7 +1,7 @@
 
 <div id="header" align="left">
   <img width="40%" src="img/QA_LOGO.svg" align="right">
-	<h1>Hello! I'm Alla</h1>
+	<h1>Hello!    I'm  Alla</h1>
 	<h3>QA Automation Engineer</h3>
   <h3>  </h3>
 	<h3>  </h3>
