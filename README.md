@@ -2,7 +2,7 @@
 <!--
 **FkkfRf/FkkfRf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left">
-<code><"img/QA-logo.svg"></code>
+<code><img src="img/QA-logo.svg"></code>
 </p>
 <p align="center">
 <img src="img/QA-logo1.svg" width="500">
