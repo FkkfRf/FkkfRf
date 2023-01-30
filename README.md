@@ -2,7 +2,7 @@
 
 
 <p align="right">
-<img width="50%" src="img/QA_LOGO.svg" >
+<img width="30%" src="img/QA_LOGO.svg" >
 </p>
 
 
