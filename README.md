@@ -16,7 +16,7 @@
 
 ### Hello! I'm Alla. 
 
-<p align="right">
+<p align="left">
 <img width="30%" src="img/QA_LOGO.png" >
 </p>
 <p align="left">
