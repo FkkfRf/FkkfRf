@@ -17,7 +17,7 @@
 ### Hello! I'm Alla. 
 
 <p align="right">
-<img width="30%" src="img/QA_LOGO.svg" >
+<img width="30%" src="img/QA_LOGO.png" >
 </p>
 <p align="left">
 <code><img src="img/QA-logo.svg"></code>
