@@ -1,14 +1,47 @@
 
 <div id="header" align="left">
-  <img width="40%" src="img/QA_LOGO.png" align="right">
+  <img width="30%" src="img/QA_LOGO.png" align="right">
 	<h1>Hello!    I'm  Alla</h1>
-	<h3>QA Automation Engineer</h3>
-  <h3>  </h3>
-	<h3>  </h3>
-	<h3>  </h3>
-	<h3>  </h3>
-  <h3>School of automation testing engineers</h3> <a target="_blank" href="https://qa.guru">QA.GURU</a>
-</div>
+	<h2>QA Automation Engineer</h2>
+	<h4>I like automated testing and learning new things</h4>
+	<h4>I think it is important to conduct quality testing of software</h4>
+	</div>
+	
+	
+### MY EDUCATION 🎓
+<!-- Education section -->
+
+  <summary>QA Atomation  </summary>
+  <br>
+  <table width="100%" border='0'>
+    <tr>
+        <td width="30%" align="center" valign="center">
+            <img src="imп/QAGURU-LOGO.png">
+            </td>
+            <td valign="middle">School of automation testing engineers
+            </br>Information technology and automated systems
+            </br><a target="_blank" href="http://[www.qa.guru](https://qa.guru/)/en"QA.GURU</a>.
+    </td>
+</tr>
+</table>
+	
+  <summary>BASE EDUCATION🎓</summary>
+  <br>
+  <table width="100%" border='0'>
+    <tr>
+        <td width="30%" align="center" valign="center">
+            <img src="img/Politech-LOGO.svg">
+            </td>
+            <td valign="middle">PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY
+            </br>Information technology and automated systems
+            </br><a target="_blank" href="http://[www.pstu.ru](https://pstu.ru/)/en">pstu.ru</a>.
+    </td>
+</tr>
+
+</table>
+
+
+
 
 
 <!--
