@@ -20,7 +20,7 @@
             </td>
             <td valign="middle">School of automation testing engineers
             </br>Information technology and automated systems
-            </br><a target="_blank" href="http://[www.qa.guru](https://qa.guru/)/en"QA.GURU</a>.
+            </br><a target="_blank" href="http://[www.qa.guru](https://qa.guru/)/en">QA.GURU</a>.
     </td>
 </tr>
 </table>
