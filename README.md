@@ -12,7 +12,7 @@
   <summary>  QA Atomation  </summary>
   <table width="100%" border='0'>
     <tr>
-        <td width="10%" align="center" valign="center">
+        <td width="20%" align="center" valign="center">
             <img src="img/QAGURU-LOGO.png">
             </td>
             <td valign="middle">School of automation testing engineers
