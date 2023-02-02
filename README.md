@@ -32,7 +32,10 @@
             </td>
             <td valign="middle">PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY
             </br>Information technology and automated systems
-            </br><a target="_blank" href="//https://pstu.ru/en/">PTSU</a>
+            </br><a target="_blank" href="https://pstu.ru/en/">PTSU</a>
+	    <td valign="middle">ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ
+            </br>Информационные технологии и автоматизированные системы
+            </br><a target="_blank" href="https://pstu.ru/">PTSU</a>
     </td>
 </tr>
 
