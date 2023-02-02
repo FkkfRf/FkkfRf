@@ -25,7 +25,7 @@ Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/"
 PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
 Information technology and automated systems </br>
   ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
-  Информационные технологии и автоматизированные системы 
+  Информационные технологии и автоматизированные системы </br>
 		</details>
 
 
