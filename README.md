@@ -16,7 +16,7 @@
             <img src="img/QAGURU-LOGO.png">
             </td>
             <td valign="middle">School of automation testing engineers
-            </br><a target="_blank" href="https://qa.guru/en">QA.GURU</a>
+            </br><a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
     </td>
 </tr>
 
@@ -30,12 +30,10 @@
         <td width="30%" align="center" valign="center">
             <img src="img/Politech-LOGO.svg">
             </td>
-            <td valign="middle">PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY
-            </br>Information technology and automated systems
-            </br><a target="_blank" href="https://pstu.ru/en/">PTSU</a>
-	    <td valign="middle">ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ
-            </br>Информационные технологии и автоматизированные системы
-            </br><a target="_blank" href="https://pstu.ru/">PTSU</a>
+            <td valign="right">  PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a>
+            </br>  Information technology and automated systems 
+	    </br>ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a>
+            </br>Информационные технологии и автоматизированные системы 
     </td>
 </tr>
 
