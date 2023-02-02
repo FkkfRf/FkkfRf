@@ -10,10 +10,10 @@
 ### MY EDUCATION 🎓
 <details>
   <summary>  QA Atomation  </summary>
-  
+
   <img width="10%" src="img/QAGURU-LOGO.png" align="left">
-Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
-  Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
+Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
+  Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></br>
 	<details>	
 <summary>  CERTIFICATE  </summary>
 </details>
@@ -22,13 +22,11 @@ Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/"
   <summary>  Higher education   </summary>
 
  <img width="10%" src="img/Politech-LOGO.svg" align="left">
-PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a>
-Information technology and automated systems 
-  ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a>
+PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
+Information technology and automated systems </br>
+  ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
   Информационные технологии и автоматизированные системы 
 		</details>
-
-
 
 
 
