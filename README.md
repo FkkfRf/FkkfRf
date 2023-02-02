@@ -8,36 +8,27 @@
 
 <!-- Education section -->
 ### MY EDUCATION 🎓
-
+<details>
   <summary>  QA Atomation  </summary>
-  <table width="100%" border='0'>
-    <tr>
-        <td width="20%" align="center" valign="center">
-            <img src="img/QAGURU-LOGO.png">
-            </td>
-            <td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
-	</br>Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
-    </td>
-</tr>
-
-<details>	
+  
+  <img width="10%" src="img/QAGURU-LOGO.png" align="left">
+Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
+  Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
+	<details>	
 <summary>  CERTIFICATE  </summary>
 </details>
-</table>
-  <summary> Base Education🎓 </summary>
-  <table width="100%" border='0'>
-    <tr>
-        <td width="30%" align="center" valign="center">
-            <img src="img/Politech-LOGO.svg">
-            </td>
-            <td valign="right">  PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a>
-            </br>  Information technology and automated systems 
-	    </br>ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a>
-            </br>Информационные технологии и автоматизированные системы 
-    </td>
-</tr>
+  </details>
+<details>
+  <summary>  Higher education   </summary>
 
-</table>
+ <img width="10%" src="img/Politech-LOGO.svg" align="left">
+PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a>
+Information technology and automated systems 
+  ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a>
+  Информационные технологии и автоматизированные системы 
+		</details>
+
+
 
 
 
