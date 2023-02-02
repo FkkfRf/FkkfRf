@@ -16,7 +16,7 @@
             <img src="img/QAGURU-LOGO.png">
             </td>
             <td valign="middle">School of automation testing engineers
-            </br><a target="_blank" href="http://[www.qa.guru](https://qa.guru/)/en">QA.GURU</a>
+            </br><a target="_blank" href="https://qa.guru/en">QA.GURU</a>
     </td>
 </tr>
 
@@ -32,7 +32,7 @@
             </td>
             <td valign="middle">PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY
             </br>Information technology and automated systems
-            </br><a target="_blank" href="http://https://pstu.ru/en">pstu.ru</a>
+            </br><a target="_blank" href="//https://pstu.ru/en/">PTSU</a>
     </td>
 </tr>
 
