@@ -15,8 +15,8 @@
         <td width="20%" align="center" valign="center">
             <img src="img/QAGURU-LOGO.png">
             </td>
-            <td valign="middle">School of automation testing engineers
-            </br><a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
+            <td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a>
+	</br>Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a>
     </td>
 </tr>
 
