@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Todoist_API_Mobile)](https://github.com/FkkfRf/Test_Todoist_API_Mobile)
 
 ### :heavy_check_mark: Mobile Autotests 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Nexign)](https://github.com/FkkfRf/Test_Nexign)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Todoist_Mobile)](https://github.com/FkkfRf/Test_Todoist_Mobile)
 
 ## :bar_chart: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FkkfRf)
