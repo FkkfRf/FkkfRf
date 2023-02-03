@@ -4,8 +4,8 @@
 	<h2>QA Automation Engineer</h2>
 </div>
 
-### I like automated testing and learning new things
-### I think it is important to conduct quality testing of software
+### _I like automated testing and learning new things_
+### _I think it is important to conduct quality testing of software_
 	
 
 <!-- Education section -->
