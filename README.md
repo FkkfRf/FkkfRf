@@ -45,7 +45,7 @@
 </table>
 </details>
 
-## :triangular_flag_on_post: My projects:
+## :earth_asia: My projects:
 	
 ### :heavy_check_mark: UI Autotests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Nexign)](https://github.com/FkkfRf/Test_Nexign)
@@ -56,7 +56,7 @@
 ### :heavy_check_mark: Mobile Autotests 
 
 
-### :fire: My Stats :
+## :bar_chart: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FkkfRf)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FkkfRf) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FkkfRf)
