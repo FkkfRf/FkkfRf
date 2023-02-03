@@ -13,6 +13,7 @@
 
 <details>
 <summary>  CERTIFICATE  </summary>
+<img src="img/Certificate.svg">
 
   </details>
 <table width="100%" border='0'>
