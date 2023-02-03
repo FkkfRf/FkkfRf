@@ -11,7 +11,7 @@
 <!-- Education section -->
 ### :books: MY EDUCATION
 <details>
-	<summary><h3> QA Atomation</h3> </summary>
+	<summary><h3> QA Automation</h3> </summary>
 	<details>
 		<summary> <h4>CERTIFICATE <i> OA Automation Engineer </i> </h4> </summary>
 		<img src="img/Certificate.svg">
@@ -48,13 +48,13 @@
 ## :triangular_flag_on_post: My projects:
 	
 ### :heavy_check_mark: UI Autotests
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Nexign)](https://github.com/FkkfRf/Test_Nexign)
 
 ### :heavy_check_mark: API&Mobile Autotests 
 
 
 ### :heavy_check_mark: Mobile Autotests 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=diplomAppMobile)](https://github.com/FkkfRf/)
+
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FkkfRf)
