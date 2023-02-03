@@ -9,7 +9,7 @@
 	
 
 <!-- Education section -->
-### MY EDUCATION 🎓
+### :books: MY EDUCATION
 <details>
 	<summary><h3> QA Atomation</h3> </summary>
 	<details>
@@ -45,7 +45,21 @@
 </table>
 </details>
 
-### MY EDUCATION 🎓
+## :triangular_flag_on_post: My projects:
+	
+### :heavy_check_mark: UI Autotests
+
+
+### :heavy_check_mark: API&Mobile Autotests 
+
+
+### :heavy_check_mark: Mobile Autotests 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=diplomAppMobile)](https://github.com/FkkfRf/)
+
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FkkfRf)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FkkfRf) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FkkfRf)
 
 <!--
 **FkkfRf/FkkfRf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
