@@ -9,7 +9,7 @@
 	
 
 <!-- Education section -->
-## :books: My Education
+## :books: Education
 <details>
 	<summary><h3> QA Automation</h3> </summary>
 	<details>
