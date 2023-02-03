@@ -11,28 +11,26 @@
 <!-- Education section -->
 ### MY EDUCATION 🎓
 <details>
-  <summary>  QA Atomation  </summary>
-
-<details>
-<summary>  CERTIFICATE  </summary>
-<img src="img/Certificate.svg">
-
-  </details>
-<table width="100%" border='0'>
-    <tr>
-        <td width="25%" align="center" valign="center">
-            <img src="img/QAGURU-LOGO.png">
-            </td>
-            <td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
-            Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></br>
-    </td>
-</tr>
-</table>
+	<summary><h3> QA Atomation</h3> </summary>
+	<details>
+		<summary> <h4>CERTIFICATE <i> OA Automation Engineer </i> </h4> </summary>
+		<img src="img/Certificate.svg">
+	</details>
+	<table width="100%" border='0'>
+		<tr>
+			<td width="25%" align="center" valign="center">
+				<img src="img/QAGURU-LOGO.png">
+			</td>
+			<td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
+			Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></br>
+			</td>
+		</tr>
+	</table>
 </details>
 
 
 <details>
-  <summary>  Higher education   </summary>
+	<summary>  <h3> Higher education  </h3> </summary>
 <table width="100%" border='0'>
     <tr>
         <td width="25%" align="center" valign="center">
@@ -40,10 +38,10 @@
             </td>
             <td valign="middle">TPERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
 		Information technology and automated systems </br>
-	ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
-	Информационные технологии и автоматизированные системы</br>
-    </td>
-</tr>
+		ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
+		Информационные технологии и автоматизированные системы</br>
+    	</td>
+	</tr>
 </table>
 </details>
 
