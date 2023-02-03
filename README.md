@@ -48,8 +48,8 @@
 ## :earth_asia: My projects:
 	
 ### :heavy_check_mark: UI Autotests
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo= Test_Nexign)](https://github.com/FkkfRf/ Test_Nexign)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo= Test_LoyaltyLabs)](https://github.com/FkkfRf/ Test_LoyaltyLabs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Nexign)](https://github.com/FkkfRf/Test_Nexign)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_LoyaltyLabs)](https://github.com/FkkfRf/Test_LoyaltyLabs)
 
 ### :heavy_check_mark: API&Mobile Autotests 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Todoist_API_Mobile)](https://github.com/FkkfRf/Test_Todoist_API_Mobile)
