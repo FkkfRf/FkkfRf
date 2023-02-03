@@ -33,10 +33,10 @@
 	<summary>  <h3> Higher education  </h3> </summary>
 <table width="100%" border='0'>
     <tr>
-        <td width="25%" align="center" valign="center">
+        <td width="23%" align="center" valign="center">
             <img src="img/Politech-LOGO.svg">
             </td>
-            <td valign="middle">TPERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
+            <td valign="middle">PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
 		Information technology and automated systems </br>
 		ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
 		Информационные технологии и автоматизированные системы</br>
