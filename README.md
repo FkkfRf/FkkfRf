@@ -11,24 +11,38 @@
 <details>
   <summary>  QA Atomation  </summary>
 
-  <img width="10%" src="img/QAGURU-LOGO.png" align="left">
-Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
-  Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></br>
-	<details>	
+<details>
 <summary>  CERTIFICATE  </summary>
-</details>
+
   </details>
+<table width="100%" border='0'>
+    <tr>
+        <td width="30%" align="center" valign="center">
+            <img src="img/QAGURU-LOGO.png">
+            </td>
+            <td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
+            Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a></br>
+    </td>
+</tr>
+</table>
+</details>
+
+
 <details>
   <summary>  Higher education   </summary>
-
- <img width="10%" src="img/Politech-LOGO.svg" align="left">
-PERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
-Information technology and automated systems </br>
-  ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
-  Информационные технологии и автоматизированные системы </br>
-		</details>
-
-
+<table width="100%" border='0'>
+    <tr>
+        <td width="30%" align="center" valign="center">
+            <img src="img/Politech-LOGO.svg">
+            </td>
+            <td valign="middle">TPERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
+		Information technology and automated systems </br>
+	ПЕРМСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ <a target="_blank" href="https://pstu.ru/">PTSU</a></br>
+	Информационные технологии и автоматизированные системы</br>
+    </td>
+</tr>
+</table>
+</details>
 
 
 
