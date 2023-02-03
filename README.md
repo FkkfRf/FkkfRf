@@ -60,8 +60,8 @@
 <code><img width="4%" title="Allure TestOps" src="img/logo/AllureTO-logo.svg"></code>
 <code><img width="4%" title="Jenkins" src="img/logo/Jenkins-logo.svg"></code>
 <code><img width="4%" title="Android Studio" src="img/logo/AndroidStudio-logo.png"></code>
-<code><img width="5%" title="Appium" src="img/logo/Appium-logo.svg"></code>
-<code><img width="5%" title="Allure Report" src="img/logo/AllureReport-logo.png"></code>
+<code><img width="4%" title="Appium" src="img/logo/Appium-logo.svg"></code>
+<code><img width="4%" title="Allure Report" src="img/logo/AllureReport-logo.png"></code>
 <code><img width="4%" title="Telegram" src="img/logo/Telegram-logo.svg"></code>
 </p>
 
