@@ -65,7 +65,7 @@
 <code><img width="4%" title="Telegram" src="img/logo/Telegram-logo.svg"></code>
 </p>
 
-## :earth_asia: My projects:
+## :earth_asia: Examples of my projects:
 	
 ### :heavy_check_mark: UI Autotests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Nexign)](https://github.com/FkkfRf/Test_Nexign)
