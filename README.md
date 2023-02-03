@@ -17,7 +17,7 @@
   </details>
 <table width="100%" border='0'>
     <tr>
-        <td width="30%" align="center" valign="center">
+        <td width="25%" align="center" valign="center">
             <img src="img/QAGURU-LOGO.png">
             </td>
             <td valign="middle">Test Automation Engineering School <a target="_blank" href="https://qa.guru/en/">QA.GURU</a></br>
@@ -32,7 +32,7 @@
   <summary>  Higher education   </summary>
 <table width="100%" border='0'>
     <tr>
-        <td width="30%" align="center" valign="center">
+        <td width="25%" align="center" valign="center">
             <img src="img/Politech-LOGO.svg">
             </td>
             <td valign="middle">TPERM NATIONAL RESEARCH POLYTECHNIC UNIVERSITY <a target="_blank" href="https://pstu.ru/en/">PTSU</a></br>
