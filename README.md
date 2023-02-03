@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img width="45%" src="img/QA_LOGO.png" align="right">
+  <img width="40%" src="img/QA_LOGO.png" align="right">
 	<h1>Hello!    I'm  Alla</h1>
 	<h2>QA Automation Engineer</h2>
 	<h3>I like automated testing and learning new things</h4>
