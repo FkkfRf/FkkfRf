@@ -77,6 +77,9 @@
 ### :heavy_check_mark: Mobile Autotests 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_Todoist_Mobile)](https://github.com/FkkfRf/Test_Todoist_Mobile)
 
+### :heavy_check_mark: REST API Autotests 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FkkfRf&repo=Test_BookLib_restapi)](https://github.com/FkkfRf/Test_BookLib_restapie)
+
 ## :bar_chart: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FkkfRf)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FkkfRf) 
